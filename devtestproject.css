@@ -1,0 +1,51 @@
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font: small-caps bold 50px/1 sans-serif;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+
+
+}
+
+p {
+    font: small-caps bold 24px/1 sans-serif;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+
+
+}
+
+label {
+    font: 1.2em "Fira Sans", sans-serif;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+
+
+}
+
+button {
+    font: 1.0em "Fira Sans", sans-serif;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+
+
+}
+
+#result {
+    font: small-caps bold 24px/1 sans-serif;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+
+
+}
+
